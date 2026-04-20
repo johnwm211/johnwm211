@@ -48,6 +48,10 @@ My career in information technology has led me to develop a passion for cybersec
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/CySA%2B-red?style=for-the-badge&logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/Pentest%2B-orange?style=for-the-badge&logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/SSCP-purple?style=for-the-badge&logo=icloud&logoColor=white" />
+
 </div>
 
 ## Projects
